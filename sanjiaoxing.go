@@ -12,6 +12,6 @@ func main() {
 		for j := 0; j <= i; j++ {
 			fmt.Print("* ")
 		}
-		fmt.Println()
+		fmt.Println("20210504")
 	}
 }
